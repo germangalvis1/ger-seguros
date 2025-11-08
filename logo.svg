@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="90" viewBox="0 0 400 120" role="img" aria-label="Logo GER-SEGUROS">
+  <g transform="translate(12,8)">
+    <path d="M60 4 L100 22 L100 60 C100 80 80 102 60 112 C40 102 20 80 20 60 L20 22 Z" fill="#2E8B57"/>
+    <path d="M60 20 L82 31 L82 52 C82 66 70 82 60 88 C50 82 38 66 38 52 L38 31 Z" fill="#ffffff" opacity="0.12"/>
+  </g>
+  <g transform="translate(140,50)">
+    <text x="0" y="0" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#2E8B57">GER-SEGUROS</text>
+    <text x="0" y="24" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#65786b">Tu aliado en seguros y protección</text>
+  </g>
+</svg>

@@ -1,2 +1,1 @@
-# ger-seguros
-Es una pagina de ejemplo
+# GER-SEGUROS - Sitio listo para GitHub Pages\n\nSigue el README incluido para publicar.
